@@ -1,0 +1,5 @@
+{
+    "route":"/SomePath",
+    "secret":"SUPERSECRETPASSWORD",
+    "deploymentScript":"./Deployment.sh"
+}
